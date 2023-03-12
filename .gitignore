@@ -1,2 +1,5 @@
-/virenv
-/assets
+virenv/
+assets/
+
+
+.hintrc
